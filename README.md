@@ -23,10 +23,10 @@ The goal is not to describe a single platform implementation, but to define foun
 ## Whitepaper
 
 📄 **English Version**  
-[Global_Collective_Intelligence_Infrastructure_EN_v1.0.pdf](docs/Global_Collective_Intelligence_Infrastructure_EN_v1.0.pdf)
+[Global_Collective_Intelligence_Infrastructure_en.pdf](docs/Global_Collective_Intelligence_Infrastructure_en.pdf)
 
 📄 **Russian Version**  
-[Global_Collective_Intelligence_Infrastructure_RU_v1.0.pdf](docs/Global_Collective_Intelligence_Infrastructure_RU_v1.0.pdf)
+[Global_Collective_Intelligence_Infrastructure_ru.pdf](docs/Global_Collective_Intelligence_Infrastructure_ru.pdf)
 
 ---
 
