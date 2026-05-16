@@ -26,7 +26,7 @@ The goal is not to describe a single platform implementation, but to define foun
 [Global_Collective_Intelligence_Infrastructure_en.pdf]
 
 📄 **Russian Version**  
-[Global_Collective_Intelligence_Infrastructure_ru.pdf](docs/Global_Collective_Intelligence_Infrastructure_ru.pdf)
+[Global_Collective_Intelligence_Infrastructure_ru.pdf]
 
 ---
 
